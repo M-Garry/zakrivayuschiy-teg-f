@@ -1,1 +1,0 @@
-git@github.com:M-Garry/zakrivayuschiy-teg-f.git
